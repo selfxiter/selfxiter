@@ -14,6 +14,6 @@ Hello! I'm **Self**, a developer focused on creating efficient and scalable solu
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-*"I learned alone, I will climb alone."*
+*"I learned alone, I will climb alone."*  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1437102261225521163)](https://discord.com/users/1437102261225521163)
+![Discord Status](https://api.henrygd.me/v1/discord/1437102261225521163?theme=dark&hideDiscrim=true)
