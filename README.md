@@ -1,11 +1,6 @@
-# About Me <table>
-  <tr>
-    <td width="150" valign="top">
-      <img src="https://i.ibb.co/TBHPCRGG/e9eb6cc7acb2860980ab9e3d146d99d6-removebg-preview.png" alt="SelfXiter" width="140" style="border-radius: 10px;">
-    </td>
+# About Me [![emoji](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white](https://i.ibb.co/TBHPCRGG/e9eb6cc7acb2860980ab9e3d146d99d6-removebg-preview.png)]
 
-
-Hello! I'm **Self**, a developer focused on creating efficient and scalable solutions with **C++**. I work on projects of various sizes and industries, always aiming for performance and quality.
+Hello! I'm **SelfXiter**, a developer focused on creating efficient and scalable solutions with **C++**. I work on projects of various sizes and industries, always aiming for performance and quality.
 
 • **Currently working on**: High-performance applications and systems using C++.  
 • **Interested in collaborating on**: C++ projects, game development, systems programming, and performance optimization.  
