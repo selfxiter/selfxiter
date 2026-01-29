@@ -1,4 +1,7 @@
-# About Me 😉
+# About Me <p align="center">
+  <img src="https://i.ibb.co/TBHPCRGG/e9eb6cc7acb2860980ab9e3d146d99d6-removebg-preview.png" alt="SelfXiter" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 
 Hello! I'm **Self**, a developer focused on creating efficient and scalable solutions with **C++**. I work on projects of various sizes and industries, always aiming for performance and quality.
 
