@@ -16,4 +16,4 @@ Hello! I'm **Self**, a developer focused on creating efficient and scalable solu
 
 *"I learned alone, I will climb alone."*  
 
-![Discord Status](https://api.henrygd.me/v1/discord/1437102261225521163?theme=dark&hideDiscrim=true)
+[![Discord](https://img.shields.io/badge/Discord-SelfXiter-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1437102261225521163)
