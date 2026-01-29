@@ -12,8 +12,7 @@ Hello! I'm **Self**, a developer focused on creating efficient and scalable solu
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-*"I learned alone, I will climb alone."*  
+*"I learned alone, I will climb alone."*
 
-[![Discord](https://img.shields.io/badge/Discord-SelfXiter-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1437102261225521163)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1437102261225521163)](https://discord.com/users/1437102261225521163)
