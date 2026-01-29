@@ -1,6 +1,16 @@
-# About Me <p align="center">
-  <img src="https://i.ibb.co/TBHPCRGG/e9eb6cc7acb2860980ab9e3d146d99d6-removebg-preview.png" alt="SelfXiter" width="150" height="150" style="border-radius: 50%;">
-</p>
+# About Me <table>
+  <tr>
+    <td width="150" valign="top">
+      <img src="https://i.ibb.co/TBHPCRGG/e9eb6cc7acb2860980ab9e3d146d99d6-removebg-preview.png" alt="SelfXiter" width="140" style="border-radius: 10px;">
+    </td>
+    <td valign="top">
+      Hello! I'm <b>SelfXiter</b>, a developer focused on creating efficient and scalable solutions with <b>C++</b>. I work on projects of various sizes and industries, always aiming for performance and quality.<br><br>
+      • <b>Currently working on</b>: High-performance applications and systems using C++.<br>
+      • <b>Interested in collaborating on</b>: C++ projects, game development, systems programming, and performance optimization.<br>
+      • <b>Fun fact</b>: I solve complex problems by writing clean, efficient, and low-level code when needed.
+    </td>
+  </tr>
+</table>
 
 
 Hello! I'm **Self**, a developer focused on creating efficient and scalable solutions with **C++**. I work on projects of various sizes and industries, always aiming for performance and quality.
