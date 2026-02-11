@@ -15,4 +15,4 @@ Hello! I'm **SelfXiter**, a developer focused on creating efficient and scalable
 
 *"I learned alone, I will climb alone."*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1437102261225521163)](https://discord.com/users/1437102261225521163)
+![Discord Profile](https://api-kkj.squareweb.app/1437102261225521163/card)
