@@ -15,4 +15,4 @@ Hello! I'm **SelfXiter**, a developer focused on creating efficient and scalable
 
 *"I learned alone, I will climb alone."*
 
-![Discord Profile](https://api-kkj.squareweb.app/1437102261225521163/card)
+![Discord Profile](https://api-nyra.squareweb.app/0m2b/card)
